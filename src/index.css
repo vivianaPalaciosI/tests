@@ -1,0 +1,116 @@
+.body {
+  background-image: url("./assets/images/office.jpg");
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+}
+
+
+.navbar-brand {
+  color: #fff;
+}
+
+
+.font-weight-100 {
+  font-weight: 100;
+}
+
+.layout-container {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  opacity: 0.9;
+  background: #3e3c3c;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+.card-title {
+  color: #000;
+}
+
+.card-text {
+  color: #000;
+  white-space: pre-wrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+/* .card-body {
+  height: 250px;
+} */
+
+.container-news {
+  margin-top: 105px;
+}
+
+.search {
+  background: #fff;
+  width: 50%;
+  padding: 30px;
+  margin: 0 auto;
+}
+
+.spacer-8 {
+  height: .5rem
+}
+
+.spacer-8,
+.spacer-16 {
+  width: 100%;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  line-height: 0
+}
+
+.spacer-16 {
+  height: 1rem
+}
+
+.spacer-24 {
+  height: 1.5rem
+}
+
+.spacer-24,
+.spacer-32 {
+  width: 100%;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  line-height: 0
+}
+
+.spacer-32 {
+  height: 2rem
+}
+
+.spacer-48 {
+  width: 100%;
+  height: 3rem;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  line-height: 0
+}
+
+.h-delimiter {
+  width: 100%;
+  height: 1px;
+  background: #d6d6d6
+}
+
+.link {
+  color: #61dafb;
+  text-align: end;
+  cursor: pointer;
+}
+
+.hide {
+  text-align: end;
+  cursor: pointer;
+}
